@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/part1.dir/src/part1.cpp.o -o part1  libviewer.a /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libSDL2.so 

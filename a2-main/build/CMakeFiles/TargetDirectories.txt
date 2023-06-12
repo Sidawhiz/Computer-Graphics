@@ -1,0 +1,5 @@
+/home/siddhesh/Desktop/a2-main/build/CMakeFiles/viewer.dir
+/home/siddhesh/Desktop/a2-main/build/CMakeFiles/example.dir
+/home/siddhesh/Desktop/a2-main/build/CMakeFiles/part1.dir
+/home/siddhesh/Desktop/a2-main/build/CMakeFiles/edit_cache.dir
+/home/siddhesh/Desktop/a2-main/build/CMakeFiles/rebuild_cache.dir
